@@ -35,6 +35,6 @@
     "prettier": "^2.2.1",
     "sass": "^1.49.8",
     "sass-loader": "^9.0.3",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler":"^2.6.11"
   }
 }
